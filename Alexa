@@ -6,8 +6,8 @@ import json
 import urllib
 
 
-consumer_key = "4naLKlknkjnlSUwhm8PtIPFG8"
-consumer_secret = "W244kXtawyGSU82iPqzhyLyalknlknlknlknljljpFfgyOI2"
+consumer_key = "4naLKlknxxxxxxxxxwhm8PtIPFG8"
+consumer_secret = "W244kXtawyGSU82iPqzhyLyalknlknlkxxxxxxxxxxxgyOI2"
 
 #access_token = "31960linkjpknpkon;pnoTbxBr3HyoUoOjxpVhw8qfX"
 #access_token_secret = "HkuFA6Ilknpiknpioknp;kinpon[oy6Ze1Rm2wqqNgb"
